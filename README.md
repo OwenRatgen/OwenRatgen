@@ -35,6 +35,8 @@
 <h3 align="left"> 
   My Stats: 
   </h3>
+    ![Owen Ratgen GitHub/GitLab Merged Contribution with Contra](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?   githubUsername=OwenRatgen&gitlabUsername=Owen.Ratgen)
+
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=OwenRatgen" title="Github Stats" alt="GTS">
     <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owenratgen">
