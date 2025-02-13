@@ -40,6 +40,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owenratgen">
     </div>
      <a href="https://leetcode.com/owenratgen">
-  <img width=512 title="Owen's LeetCode Stats" alt="Owen's LeetCode Stats" src="https://leetcode.card.workers.dev/?username=owenratgen&style=light&font=Garamond&extension=activity" />
  </a>
 </div>
