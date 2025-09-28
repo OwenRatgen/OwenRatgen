@@ -35,7 +35,10 @@
 <h3 align="left"> 
   My Stats: 
   </h3>
+    <img src="https://leetcard.jacoblin.cool/OwenRatgen?theme=unicorn&font=Baloo%202&ext=heatmap" />
+    <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=OwenRatgen" title="Github Stats" alt="GTS">
+    </div>
     <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owenratgen">
     </div>
