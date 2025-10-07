@@ -40,7 +40,7 @@
     <img src="https://leetcard.jacoblin.cool/OwenRatgen?theme=unicorn&font=Baloo%202&ext=heatmap" />
     <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=OwenRatgen" title="Github Stats" alt="GTS">
-      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OwenRatgen&mode=weekly)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=OwenRatgen&mode=weekly" alt="GitHub Streak" /></a>
     </div>
     <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owenratgen">
