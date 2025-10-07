@@ -37,9 +37,9 @@
 <h3 align="left"> 
   My Stats: 
   </h3>
-    <img src="https://leetcard.jacoblin.cool/OwenRatgen?theme=unicorn&font=Baloo%202&ext=heatmap" />
+    <img src="https://leetcard.jacoblin.cool/OwenRatgen?theme=radical&font=Baloo%202&ext=heatmap" />
     <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OwenRatgen&theme=meta-light" title="Github Stats" alt="GTS">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OwenRatgen&theme=violet-dark" title="Github Stats" alt="GTS">
     </div>
     <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owenratgen">
