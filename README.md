@@ -17,7 +17,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=OwenRatgen&style=flat-square&color=blue" alt=""/>
 </div>
-  Software Engineer at Trane Technologies - Enjoy coding in my freetime - Always looking for new projects
+  Software Engineer at Trane Technologies - Enjoy coding in my freetime - Always looking to improve my README
   </div>
   
 
