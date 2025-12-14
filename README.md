@@ -51,7 +51,7 @@
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=OwenRatgen&theme=github_dark_dimmed" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OwenRatgen&theme=github-dark-dimmed" alt="GitHub Streak Stats" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=OwenRatgen&theme=github-dark-dimmed" alt="GitHub Streak Stats" /> -->
 </p>
 
 <p align="center">
