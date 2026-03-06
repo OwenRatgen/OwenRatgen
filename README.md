@@ -42,23 +42,6 @@
 
 <div align="center">
 
-## My Stats
-
-<p align="center">
-  
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owenratgen&theme=github_dark_dimmed&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=OwenRatgen&theme=github_dark_dimmed" alt="GitHub Stats" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=OwenRatgen&theme=github-dark-dimmed" alt="GitHub Streak Stats" /> -->
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/owenratgen">
-    <img src="https://leetcard.jacoblin.cool/OwenRatgen?theme=nord&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</p>
 
 </div>
   </div>
