@@ -42,6 +42,23 @@
 
 <div align="center">
 
+## My Stats
+
+<p align="center">
+  
+  <img src="https://ghstats.dev/api/langs?username=OwenRatgen" alt="Top Languages" />
+</p>
+
+<p align="center">
+<img src="https://ghstats.dev/api/card?username=OwenRatgen&theme=github-dark-dimmed" alt="GitHub Stats Card" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OwenRatgen&theme=github-dark-dimmed" alt="GitHub Streak Stats" />
+</p>
+
+<!-- <p align="center">
+  <a href="https://leetcode.com/owenratgen">
+    <img src="https://leetcard.jacoblin.cool/OwenRatgen?theme=nord&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p> -->
 
 </div>
   </div>
