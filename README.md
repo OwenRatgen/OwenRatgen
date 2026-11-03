@@ -17,7 +17,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=OwenRatgen&style=flat-square&color=blue" alt=""/>
 </div>
-  Software Engineer at Ubiquity Retirement + Savings - Enjoy coding in my freetime - Always looking to learn something new
+  Software Engineer at Ubiquity Retirement + Savings - Co-Founder at Creevo.app - Enjoy coding in my freetime - Always looking to learn something new
   </div>
   
 
